@@ -2,4 +2,4 @@
 
 ---
 
-This is a coure taught by seniors which helps us to get to knnow the basics and reach a respectable level of know how on NNs
+This is a course taught by seniors which helps us to get to knnow the basics and reach a respectable level of know how on NNs
